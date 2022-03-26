@@ -1,0 +1,42 @@
+h5 {
+	color:  khaki;
+	font-size: 100px;
+	font-weight: bold;
+	margin: 0 auto;
+	width: 100%;
+	height: 100px;
+	background-image: url("../images/pattern.jpeg");
+	text-align: center;
+}
+
+
+
+
+.pricing {
+	color: blue;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.brushes h3 {
+	background-color: mediumspringgreen;
+	color:  white;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.frames h3 {
+	background-color: lightcoral;
+	color:  white;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.paint h3 {
+	background-color: skyblue;
+	color:  white;
+	font-size: 32px;
+	font-weight: bold;
+}
